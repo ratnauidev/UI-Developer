@@ -1,0 +1,21 @@
+figure img {
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	-webkit-box-shadow: 1px 1px 15px #4346dd;
+	box-shadow: 1px 1px 15px #4346dd;
+	background-color: #999999;
+}
+figcaption {
+	text-transform: uppercase;
+	text-align: center;
+	border-radius: 48px;
+}
+
+
+body {
+	background-color: #FFFFFF;
+	-webkit-box-shadow: 0px 0px #FCFBFB;
+	box-shadow: 0px 0px #FCFBFB;
+}
